@@ -1,0 +1,17 @@
+{
+  "name": "b3-auth",
+  "version": "1.0.0",
+  "description": "Render-safe Puppeteer API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^24.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
